@@ -42,3 +42,6 @@ blvn-braids/
 ├── backend/
 ├── README.md
 └── .gitignore
+
+## developpement local
+le projeet est en cours de developpement
